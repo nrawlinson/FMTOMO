@@ -13,4 +13,20 @@ A detailed manual for FMTOMO can be found in the docs subdicrectory. A brief doc
 
 ## Installation
 
-The complete distro of the FMTOMO package (fmtomov1.2.tar.gz) and FMTOMO Extras package (fmtomo_extrasv1.1.tar.gz). These can be unpacked using something like "tar -xvzf filename". The instruction manuals contain complete installation instructions.
+The complete distro of the FMTOMO package (fmtomov1.2.tar.gz) and FMTOMO Extras package (fmtomo_extrasv1.1.tar.gz). These can be unpacked using something like "tar -xvzf filename". The instruction manuals contain detailed installation instructions.
+
+## Citation
+
+If you use FMTOMO, please cite
+
+Rawlinson, N., and M. Urvoy (2006), Simultaneous inversion of active and passive source datasets for 3-D seismic structure with application to Tasmania, Geophys. Res. Lett., 33, L24313, doi:10.1029/2006GL028105. 
+
+de Kool, M., Rawlinson, N. and Sambridge, M. (2006), A practical grid-based method for tracking multiple refraction and reflection phases in three-dimensional heterogeneous media, Geophysical Journal International, Volume 167, 253–270, https://doi.org/10.1111/j.1365-246X.2006.03078.x
+
+If you use FMTOMO Extras, please cite
+
+Pilia S., N. Rawlinson, N. G. Direen, P. R. Cummins, and N. Balfour (2013), Structural controls on localized intraplate deformation and seismicity in southern Australia: insights from local earthquake tomography of the Flinders Ranges, Journal of Geophysical Research: Solid Earth, 118, 2176–2190, doi:10.1002/jgrb.50168.
+
+## Contact
+
+If you have any questions, please contact Nick Rawlinson (nr441@cam.ac.uk)
