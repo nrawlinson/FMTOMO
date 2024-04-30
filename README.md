@@ -1,4 +1,4 @@
-# FMTOMO ![image](https://github.com/nrawlinson/FMTOMO/assets/165170812/d767b7a9-3f95-4bb8-8609-cc1dd59f101c)
+ ![image](https://github.com/nrawlinson/FMTOMO/assets/165170812/d767b7a9-3f95-4bb8-8609-cc1dd59f101c)
 
 Source code and instructions for using FMTOMO
 
