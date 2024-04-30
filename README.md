@@ -6,3 +6,11 @@ FMTOMO is a Fortran 90 code for undertaking 3-D traveltime tomography in spheric
 A fork known as FMTOMO-extras is also provided in this distribution. It uses the same base code as FMTOMO, but includes a routine for the fully non-linear relocation of hypocenters, which can be used in local earthquake tomography, for example.
 
 FMTOMO has an extensive user guide, while FMTOMO-extras has a relatively brief userguide, since it is just an add-on to the base package.
+
+# Documentation
+
+A detailed manual for FMTOMO can be found in the docs subdicrectory. A brief document outlining how to use the FMTOMO Extras packages is also included in this subdirectory.
+
+# Installation
+
+The complete distro of the FMTOMO package (fmtomov1.2.tar.gz) and FMTOMO Extras package (fmtomo_extrasv1.1.tar.gz). These can be unpacked using something like "tar -xvzf filename". The instruction manuals contain complete installation instructions.
